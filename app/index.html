@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Foodseek 杭州</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar">
+        <span class="grabber" aria-hidden="true"></span>
+
+        <section class="controls" aria-label="筛选">
+          <div class="search-row">
+            <label class="search-box">
+              <i data-lucide="search"></i>
+              <input id="searchInput" type="search" placeholder="店名、菜名、区域" autocomplete="off" />
+            </label>
+            <button class="icon-button" id="locateButton" type="button" title="定位" aria-label="定位">
+              <i data-lucide="locate-fixed"></i>
+            </button>
+          </div>
+
+          <div class="control-row">
+            <select id="areaSelect" aria-label="区域">
+              <option value="">全部区域</option>
+            </select>
+            <select id="sortSelect" aria-label="排序">
+              <option value="source">原始排序</option>
+              <option value="distance">离我最近</option>
+              <option value="dish">菜品数量</option>
+            </select>
+          </div>
+
+          <div class="chips" id="preferenceChips" aria-label="偏好"></div>
+          <div class="quick-toggles" aria-label="推荐模式">
+            <button class="toggle-chip active" id="unvisitedToggle" type="button" aria-pressed="true">
+              没吃过优先
+            </button>
+          </div>
+
+          <section class="roulette-panel" aria-label="随机轮盘">
+            <div class="roulette-copy">
+              <span class="roulette-kicker">轮盘</span>
+              <strong id="rouletteTitle">换一家</strong>
+              <span id="rouletteHint">未定位</span>
+            </div>
+            <div class="decision-nudge" id="decisionNudge" aria-live="polite"></div>
+            <div class="roulette-stage">
+              <span class="roulette-pointer" aria-hidden="true"></span>
+              <button class="roulette-wheel" id="randomButton" type="button" title="换一家" aria-label="换一家">
+                <span class="wheel-disc" id="wheelFace" aria-hidden="true"></span>
+                <span class="wheel-center">
+                  <i data-lucide="refresh-cw"></i>
+                </span>
+              </button>
+            </div>
+          </section>
+        </section>
+
+        <section class="stats" aria-live="polite">
+          <span><strong id="resultCount">0</strong> 家</span>
+          <span><strong id="mappedCount">0</strong> 个地址</span>
+          <span id="geoStatus">未定位</span>
+        </section>
+
+        <section class="mobile-selected" id="mobileSelected" aria-live="polite"></section>
+        <section class="shop-list" id="shopList" aria-label="店铺列表"></section>
+      </aside>
+
+      <section class="map-stage" aria-label="地图">
+        <div id="map"></div>
+        <div class="map-overlay">
+          <div class="basemap-switch" id="basemapSwitch" aria-label="底图">
+            <button type="button" class="basemap-option" data-basemap="voyager">清爽</button>
+            <button type="button" class="basemap-option" data-basemap="positron">素净</button>
+            <button type="button" class="basemap-option" data-basemap="dark">夜色</button>
+            <button type="button" class="basemap-option" data-basemap="osm">街道</button>
+          </div>
+          <button class="icon-button" id="fitButton" type="button" title="回到全图" aria-label="回到全图">
+            <i data-lucide="scan"></i>
+          </button>
+        </div>
+        <article class="detail-panel" id="detailPanel" aria-live="polite"></article>
+      </section>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

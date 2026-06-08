@@ -1,0 +1,1262 @@
+- main [ref=e2]:
+  - complementary [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - paragraph [ref=e6]: Hangzhou Foodseek
+        - heading "今天吃什么" [level=1] [ref=e7]
+      - button "随机推荐" [ref=e8] [cursor=pointer]:
+        - img [ref=e9]
+    - region "筛选" [ref=e15]:
+      - generic [ref=e16]:
+        - img [ref=e17]
+        - searchbox [ref=e20]
+      - generic [ref=e21]:
+        - combobox "区域" [ref=e22]:
+          - option "全部区域" [selected]
+          - option "金街美地 (8)"
+          - option "连锁 (6)"
+          - option "象山国际 (5)"
+          - option "剑桥公社 (4)"
+          - option "良渚 (4)"
+          - option "胜利河美食街 (4)"
+          - option "铂悦城 (3)"
+          - option "七贤山居 (3)"
+          - option "上塘路 (3)"
+          - option "新天地 (3)"
+          - option "星光荟 (3)"
+          - option "奥莱金街 (2)"
+          - option "大关 (2)"
+          - option "屏峰 (2)"
+          - option "首尔印象 (2)"
+          - option "西溪印象城 (2)"
+          - option "香积寺路 (2)"
+          - option "萧山 (2)"
+          - option "信义坊 (2)"
+          - option "永旺梦乐城 (2)"
+          - option "UN 公社 (2)"
+          - option "大关大润发 (1)"
+          - option "东和 (1)"
+          - option "高教园 (1)"
+          - option "拱墅万达金街 (1)"
+          - option "海创园 (1)"
+          - option "海外海 (1)"
+          - option "河东路 (1)"
+          - option "集贸路 (1)"
+          - option "金华南路 (1)"
+          - option "景芳 (1)"
+          - option "九堡 (1)"
+          - option "康康谷 (1)"
+          - option "乐堤港 (1)"
+          - option "龙坞 (1)"
+          - option "南街停车场 (1)"
+          - option "三墩 (1)"
+          - option "三墩新天地 (1)"
+          - option "善贤人家 (1)"
+          - option "石马 (1)"
+          - option "西和 (1)"
+          - option "西联广场 (1)"
+          - option "西文街 (1)"
+          - option "西子丁兰 (1)"
+          - option "象山路西街 (1)"
+          - option "象山站 D 口 (1)"
+          - option "小和山新苑 (1)"
+          - option "新塘路 (1)"
+          - option "野风现代之窗 (1)"
+          - option "原工大垃圾街 (1)"
+          - option "袁浦路 (1)"
+          - option "之江商务中心 (1)"
+          - option "中大银泰 (1)"
+          - option "BAC 艺术社区 (1)"
+        - combobox "排序" [ref=e23]:
+          - option "原始排序" [selected]
+          - option "优先精确点位"
+          - option "菜品数量"
+      - generic "偏好" [ref=e24]:
+        - button "牛肉" [ref=e25] [cursor=pointer]
+        - button "海鲜" [ref=e26] [cursor=pointer]
+        - button "粉面" [ref=e27] [cursor=pointer]
+        - button "火锅" [ref=e28] [cursor=pointer]
+        - button "烧烤" [ref=e29] [cursor=pointer]
+        - button "重辣" [ref=e30] [cursor=pointer]
+        - button "素菜" [ref=e31] [cursor=pointer]
+        - button "夜宵" [ref=e32] [cursor=pointer]
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - strong [ref=e35]: "99"
+        - text: 家
+      - generic [ref=e36]:
+        - strong [ref=e37]: "99"
+        - text: 个点位
+      - generic [ref=e38]: 精确 82
+    - article [ref=e40]:
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - text: 当前推荐
+          - heading "肯德基" [level=2] [ref=e43]
+        - generic [ref=e44]: "#01"
+      - generic [ref=e45]:
+        - generic [ref=e46]: 精确
+        - generic [ref=e47]: 连锁
+        - generic [ref=e48]: 精确点位
+      - generic [ref=e50]: 原表未列菜品
+      - generic [ref=e51]:
+        - link "导航" [ref=e52] [cursor=pointer]:
+          - /url: https://uri.amap.com/marker?position=120.210108%2C30.245469&name=%E8%82%AF%E5%BE%B7%E5%9F%BA%28%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%831%E5%8F%B7%E5%BA%97%29&coordinate=gaode&callnative=1
+        - button "复制" [ref=e53]
+        - button "换一家" [ref=e54]
+    - region "店铺列表" [ref=e55]:
+      - article [ref=e56] [cursor=pointer]:
+        - generic [ref=e57]:
+          - generic [ref=e58]: 肯德基
+          - generic [ref=e59]: "#01"
+        - generic [ref=e61]: 原表未列菜品
+        - generic [ref=e62]:
+          - generic [ref=e63]: 精确
+          - generic [ref=e64]: 连锁
+          - generic [ref=e65]: 第 1 页
+      - article [ref=e66] [cursor=pointer]:
+        - generic [ref=e67]:
+          - generic [ref=e68]: 麦当劳
+          - generic [ref=e69]: "#02"
+        - generic [ref=e71]: 原表未列菜品
+        - generic [ref=e72]:
+          - generic [ref=e73]: 精确
+          - generic [ref=e74]: 连锁
+          - generic [ref=e75]: 第 1 页
+      - article [ref=e76] [cursor=pointer]:
+        - generic [ref=e77]:
+          - generic [ref=e78]: 必胜客
+          - generic [ref=e79]: "#03"
+        - generic [ref=e81]: 原表未列菜品
+        - generic [ref=e82]:
+          - generic [ref=e83]: 精确
+          - generic [ref=e84]: 连锁
+          - generic [ref=e85]: 第 1 页
+      - article [ref=e86] [cursor=pointer]:
+        - generic [ref=e87]:
+          - generic [ref=e88]: 汉堡王
+          - generic [ref=e89]: "#04"
+        - generic [ref=e91]: 原表未列菜品
+        - generic [ref=e92]:
+          - generic [ref=e93]: 精确
+          - generic [ref=e94]: 连锁
+          - generic [ref=e95]: 第 1 页
+      - article [ref=e96] [cursor=pointer]:
+        - generic [ref=e97]:
+          - generic [ref=e98]: 六盘水黄牛馆
+          - generic [ref=e99]: "#05"
+        - generic [ref=e100]:
+          - generic [ref=e101]: 生牛肉
+          - generic [ref=e102]: 胸口油
+          - generic [ref=e103]: 牛骨髓
+        - generic [ref=e104]:
+          - generic [ref=e105]: 精确
+          - generic [ref=e106]: 奥莱金街
+          - generic [ref=e107]: 第 1 页
+      - article [ref=e108] [cursor=pointer]:
+        - generic [ref=e109]:
+          - generic [ref=e110]: 辣东家
+          - generic [ref=e111]: "#06"
+        - generic [ref=e112]:
+          - generic [ref=e113]: 油泼鸡
+          - generic [ref=e114]: 小炒鸡杂
+          - generic [ref=e115]: 雪菜芋艿
+        - generic [ref=e116]:
+          - generic [ref=e117]: 精确
+          - generic [ref=e118]: 象山国际
+          - generic [ref=e119]: 第 1 页
+      - article [ref=e120] [cursor=pointer]:
+        - generic [ref=e121]:
+          - generic [ref=e122]: 小辣椒
+          - generic [ref=e123]: "#07"
+        - generic [ref=e124]:
+          - generic [ref=e125]: 小炒肉
+          - generic [ref=e126]: 生炒鸡
+          - generic [ref=e127]: 香辣甲鱼
+        - generic [ref=e128]:
+          - generic [ref=e129]: 精确
+          - generic [ref=e130]: 象山国际
+          - generic [ref=e131]: 第 1 页
+      - article [ref=e132] [cursor=pointer]:
+        - generic [ref=e133]:
+          - generic [ref=e134]: 昊家露
+          - generic [ref=e135]: "#08"
+        - generic [ref=e136]:
+          - generic [ref=e137]: 铁板五花肉
+          - generic [ref=e138]: 部队火锅
+          - generic [ref=e139]: 火辣鸡爪
+        - generic [ref=e140]:
+          - generic [ref=e141]: 商圈
+          - generic [ref=e142]: 首尔印象
+          - generic [ref=e143]: 第 1 页
+      - article [ref=e144] [cursor=pointer]:
+        - generic [ref=e145]:
+          - generic [ref=e146]: 本分冒菜
+          - generic [ref=e147]: "#09"
+        - generic [ref=e148]:
+          - generic [ref=e149]: 牛肉
+          - generic [ref=e150]: 毛肚
+          - generic [ref=e151]: 脑花
+          - generic [ref=e152]: 鸭肠
+          - generic [ref=e153]: 黄喉
+        - generic [ref=e154]:
+          - generic [ref=e155]: 精确
+          - generic [ref=e156]: 金街美地
+          - generic [ref=e157]: 第 1 页
+      - article [ref=e158] [cursor=pointer]:
+        - generic [ref=e159]:
+          - generic [ref=e160]: 睿雪面馆
+          - generic [ref=e161]: "#10"
+        - generic [ref=e162]:
+          - generic [ref=e163]: 猪肝拌川
+          - generic [ref=e164]: 酸辣面
+          - generic [ref=e165]: 腰花拌川
+        - generic [ref=e166]:
+          - generic [ref=e167]: 精确
+          - generic [ref=e168]: 象山路西街
+          - generic [ref=e169]: 第 1 页
+      - article [ref=e170] [cursor=pointer]:
+        - generic [ref=e171]:
+          - generic [ref=e172]: 来翠面馆
+          - generic [ref=e173]: "#11"
+        - generic [ref=e174]:
+          - generic [ref=e175]: 虾腰拌川
+          - generic [ref=e176]: 双腰拌川
+          - generic [ref=e177]: 猪肝面
+        - generic [ref=e178]:
+          - generic [ref=e179]: 精确
+          - generic [ref=e180]: 集贸路
+          - generic [ref=e181]: 第 1 页
+      - article [ref=e182] [cursor=pointer]:
+        - generic [ref=e183]:
+          - generic [ref=e184]: 彩虹大排档
+          - generic [ref=e185]: "#12"
+        - generic [ref=e186]:
+          - generic [ref=e187]: 椒盐皮皮虾
+          - generic [ref=e188]: 醋爪
+          - generic [ref=e189]: 小龙虾
+        - generic [ref=e190]:
+          - generic [ref=e191]: 精确
+          - generic [ref=e192]: 袁浦路
+          - generic [ref=e193]: 第 1 页
+      - article [ref=e194] [cursor=pointer]:
+        - generic [ref=e195]:
+          - generic [ref=e196]: 老桐庐 1977
+          - generic [ref=e197]: "#13"
+        - generic [ref=e198]:
+          - generic [ref=e199]: 生炒鸡
+          - generic [ref=e200]: 鱼头煲
+          - generic [ref=e201]: 卤鸭
+        - generic [ref=e202]:
+          - generic [ref=e203]: 精确
+          - generic [ref=e204]: 金街美地
+          - generic [ref=e205]: 第 1 页
+      - article [ref=e206] [cursor=pointer]:
+        - generic [ref=e207]:
+          - generic [ref=e208]: 那拉提新疆菜
+          - generic [ref=e209]: "#14"
+        - generic [ref=e210]:
+          - generic [ref=e211]: 大盘鸡
+          - generic [ref=e212]: 烤羊腿
+          - generic [ref=e213]: 羊肉串
+        - generic [ref=e214]:
+          - generic [ref=e215]: 精确
+          - generic [ref=e216]: 星光荟
+          - generic [ref=e217]: 第 1 页
+      - article [ref=e218] [cursor=pointer]:
+        - generic [ref=e219]:
+          - generic [ref=e220]: 贵州地摊大排档
+          - generic [ref=e221]: "#15"
+        - generic [ref=e222]:
+          - generic [ref=e223]: 酸虾牛肉
+          - generic [ref=e224]: 酸汤牛肉
+          - generic [ref=e225]: 炒魔芋
+        - generic [ref=e226]:
+          - generic [ref=e227]: 商圈
+          - generic [ref=e228]: 首尔印象
+          - generic [ref=e229]: 第 2 页
+      - article [ref=e230] [cursor=pointer]:
+        - generic [ref=e231]:
+          - generic [ref=e232]: 波哥私厨
+          - generic [ref=e233]: "#16"
+        - generic [ref=e234]:
+          - generic [ref=e235]: 香辣蟹
+          - generic [ref=e236]: 水煮吊龙
+          - generic [ref=e237]: 小龙虾
+        - generic [ref=e238]:
+          - generic [ref=e239]: 精确
+          - generic [ref=e240]: 之江商务中心
+          - generic [ref=e241]: 第 2 页
+      - article [ref=e242] [cursor=pointer]:
+        - generic [ref=e243]:
+          - generic [ref=e244]: 停车场新疆烧烤
+          - generic [ref=e245]: "#17"
+        - generic [ref=e246]:
+          - generic [ref=e247]: 羊肉串
+          - generic [ref=e248]: 秋刀鱼
+          - generic [ref=e249]: 羊骨汤
+        - generic [ref=e250]:
+          - generic [ref=e251]: 精确
+          - generic [ref=e252]: 南街停车场
+          - generic [ref=e253]: 第 2 页
+      - article [ref=e254] [cursor=pointer]:
+        - generic [ref=e255]:
+          - generic [ref=e256]: 重庆鸡公煲
+          - generic [ref=e257]: "#18"
+        - generic [ref=e259]: 重庆鸡公煲
+        - generic [ref=e260]:
+          - generic [ref=e261]: 精确
+          - generic [ref=e262]: 金街美地
+          - generic [ref=e263]: 第 2 页
+      - article [ref=e264] [cursor=pointer]:
+        - generic [ref=e265]:
+          - generic [ref=e266]: 大老太江西小炒
+          - generic [ref=e267]: "#19"
+        - generic [ref=e268]:
+          - generic [ref=e269]: 小炒肉
+          - generic [ref=e270]: 黄牛肉
+          - generic [ref=e271]: 黄豆鸡脚
+        - generic [ref=e272]:
+          - generic [ref=e273]: 精确
+          - generic [ref=e274]: 金街美地
+          - generic [ref=e275]: 第 2 页
+      - article [ref=e276] [cursor=pointer]:
+        - generic [ref=e277]:
+          - generic [ref=e278]: 瑶姐干蒸菜
+          - generic [ref=e279]: "#20"
+        - generic [ref=e280]:
+          - generic [ref=e281]: 吊龙牛肉
+          - generic [ref=e282]: 容边排骨
+        - generic [ref=e283]:
+          - generic [ref=e284]: 精确
+          - generic [ref=e285]: 象山国际
+          - generic [ref=e286]: 第 2 页
+      - article [ref=e287] [cursor=pointer]:
+        - generic [ref=e288]:
+          - generic [ref=e289]: 墨绿
+          - generic [ref=e290]: "#21"
+        - generic [ref=e291]:
+          - generic [ref=e292]: 泉水鱼
+          - generic [ref=e293]: 石锅牛蛙
+          - generic [ref=e294]: 铁锅鸡
+        - generic [ref=e295]:
+          - generic [ref=e296]: 精确
+          - generic [ref=e297]: 星光荟
+          - generic [ref=e298]: 第 2 页
+      - article [ref=e299] [cursor=pointer]:
+        - generic [ref=e300]:
+          - generic [ref=e301]: 印象坊
+          - generic [ref=e302]: "#22"
+        - generic [ref=e303]:
+          - generic [ref=e304]: 扁扁鸡
+          - generic [ref=e305]: 酸菜黑鱼
+        - generic [ref=e306]:
+          - generic [ref=e307]: 商圈
+          - generic [ref=e308]: 金街美地
+          - generic [ref=e309]: 第 2 页
+      - article [ref=e310] [cursor=pointer]:
+        - generic [ref=e311]:
+          - generic [ref=e312]: 金华砂锅
+          - generic [ref=e313]: "#23"
+        - generic [ref=e315]: 筒骨砂锅
+        - generic [ref=e316]:
+          - generic [ref=e317]: 精确
+          - generic [ref=e318]: 金街美地
+          - generic [ref=e319]: 第 2 页
+      - article [ref=e320] [cursor=pointer]:
+        - generic [ref=e321]:
+          - generic [ref=e322]: 大峰饭店
+          - generic [ref=e323]: "#24"
+        - generic [ref=e324]:
+          - generic [ref=e325]: 鱼籽鱼泡
+          - generic [ref=e326]: 杂鱼锅仔
+        - generic [ref=e327]:
+          - generic [ref=e328]: 精确
+          - generic [ref=e329]: 象山站 D 口
+          - generic [ref=e330]: 第 2 页
+      - article [ref=e331] [cursor=pointer]:
+        - generic [ref=e332]:
+          - generic [ref=e333]: 味世芳烧饼
+          - generic [ref=e334]: "#25"
+        - generic [ref=e335]:
+          - generic [ref=e336]: 干菜饼
+          - generic [ref=e337]: 牛肉烧饼
+        - generic [ref=e338]:
+          - generic [ref=e339]: 精确
+          - generic [ref=e340]: 星光荟
+          - generic [ref=e341]: 第 2 页
+      - article [ref=e342] [cursor=pointer]:
+        - generic [ref=e343]:
+          - generic [ref=e344]: 衢小膳
+          - generic [ref=e345]: "#26"
+        - generic [ref=e346]:
+          - generic [ref=e347]: 泡椒牛蛙
+          - generic [ref=e348]: 杂鱼锅
+          - generic [ref=e349]: 小炒黄牛肉
+        - generic [ref=e350]:
+          - generic [ref=e351]: 精确
+          - generic [ref=e352]: 象山国际
+          - generic [ref=e353]: 第 2 页
+      - article [ref=e354] [cursor=pointer]:
+        - generic [ref=e355]:
+          - generic [ref=e356]: 大叔与萝莉
+          - generic [ref=e357]: "#27"
+        - generic [ref=e358]:
+          - generic [ref=e359]: 汉堡
+          - generic [ref=e360]: 牛肉蛋包饭
+          - generic [ref=e361]: 沙拉
+        - generic [ref=e362]:
+          - generic [ref=e363]: 精确
+          - generic [ref=e364]: 象山国际
+          - generic [ref=e365]: 第 2 页
+      - article [ref=e366] [cursor=pointer]:
+        - generic [ref=e367]:
+          - generic [ref=e368]: 玖十八烤鱼
+          - generic [ref=e369]: "#28"
+        - generic [ref=e370]:
+          - generic [ref=e371]: 海鲈鱼烤鱼
+          - generic [ref=e372]: 锡纸日本豆腐
+        - generic [ref=e373]:
+          - generic [ref=e374]: 精确
+          - generic [ref=e375]: 奥莱金街
+          - generic [ref=e376]: 第 2 页
+      - article [ref=e377] [cursor=pointer]:
+        - generic [ref=e378]:
+          - generic [ref=e379]: 张大厨柠檬酸菜鱼
+          - generic [ref=e380]: "#29"
+        - generic [ref=e381]:
+          - generic [ref=e382]: 老坛酸菜鱼
+          - generic [ref=e383]: 干烧肥肠
+        - generic [ref=e384]:
+          - generic [ref=e385]: 商圈
+          - generic [ref=e386]: 龙坞
+          - generic [ref=e387]: 第 2 页
+      - article [ref=e388] [cursor=pointer]:
+        - generic [ref=e389]:
+          - generic [ref=e390]: 山胡椒
+          - generic [ref=e391]: "#30"
+        - generic [ref=e392]:
+          - generic [ref=e393]: 带汤牛肉
+          - generic [ref=e394]: 茄子
+          - generic [ref=e395]: 擂辣椒皮蛋
+        - generic [ref=e396]:
+          - generic [ref=e397]: 精确
+          - generic [ref=e398]: BAC 艺术社区
+          - generic [ref=e399]: 第 2 页
+      - article [ref=e400] [cursor=pointer]:
+        - generic [ref=e401]:
+          - generic [ref=e402]: 宽窄巷子
+          - generic [ref=e403]: "#31"
+        - generic [ref=e404]:
+          - generic [ref=e405]: 鸭血
+          - generic [ref=e406]: 猪脑
+          - generic [ref=e407]: 毛肚
+          - generic [ref=e408]: 冰粉
+        - generic [ref=e409]:
+          - generic [ref=e410]: 精确
+          - generic [ref=e411]: 金街美地
+          - generic [ref=e412]: 第 2 页
+      - article [ref=e413] [cursor=pointer]:
+        - generic [ref=e414]:
+          - generic [ref=e415]: 杨国福麻辣烫
+          - generic [ref=e416]: "#32"
+        - generic [ref=e418]: 所有素菜
+        - generic [ref=e419]:
+          - generic [ref=e420]: 精确
+          - generic [ref=e421]: 金街美地
+          - generic [ref=e422]: 第 2 页
+      - article [ref=e423] [cursor=pointer]:
+        - generic [ref=e424]:
+          - generic [ref=e425]: 四季大树底
+          - generic [ref=e426]: "#33"
+        - generic [ref=e427]:
+          - generic [ref=e428]: 山泉水螺蛳
+          - generic [ref=e429]: 杂鱼锅
+          - generic [ref=e430]: 炒肚尖
+        - generic [ref=e431]:
+          - generic [ref=e432]: 商圈
+          - generic [ref=e433]: 金华南路
+          - generic [ref=e434]: 第 2 页
+      - article [ref=e435] [cursor=pointer]:
+        - generic [ref=e436]:
+          - generic [ref=e437]: 蜀风旋转小火锅
+          - generic [ref=e438]: "#34"
+        - generic [ref=e440]: 所有素菜
+        - generic [ref=e441]:
+          - generic [ref=e442]: 精确
+          - generic [ref=e443]: 大关大润发
+          - generic [ref=e444]: 第 2 页
+      - article [ref=e445] [cursor=pointer]:
+        - generic [ref=e446]:
+          - generic [ref=e447]: 台州海鲜面
+          - generic [ref=e448]: "#35"
+        - generic [ref=e449]:
+          - generic [ref=e450]: 海鲜粉丝
+          - generic [ref=e451]: 黄鱼面
+          - generic [ref=e452]: 带鱼面
+        - generic [ref=e453]:
+          - generic [ref=e454]: 精确
+          - generic [ref=e455]: 野风现代之窗
+          - generic [ref=e456]: 第 2 页
+      - article [ref=e457] [cursor=pointer]:
+        - generic [ref=e458]:
+          - generic [ref=e459]: 凯哥一头牛
+          - generic [ref=e460]: "#36"
+        - generic [ref=e461]:
+          - generic [ref=e462]: 新鲜吊龙
+          - generic [ref=e463]: 鲜切牛肉
+        - generic [ref=e464]:
+          - generic [ref=e465]: 精确
+          - generic [ref=e466]: 拱墅万达金街
+          - generic [ref=e467]: 第 2 页
+      - article [ref=e468] [cursor=pointer]:
+        - generic [ref=e469]:
+          - generic [ref=e470]: 快点小龙虾大闸蟹
+          - generic [ref=e471]: "#37"
+        - generic [ref=e472]:
+          - generic [ref=e473]: 小龙虾
+          - generic [ref=e474]: 椒盐皮皮虾
+          - generic [ref=e475]: 螺蛳
+        - generic [ref=e476]:
+          - generic [ref=e477]: 商圈
+          - generic [ref=e478]: 信义坊
+          - generic [ref=e479]: 第 2 页
+      - article [ref=e480] [cursor=pointer]:
+        - generic [ref=e481]:
+          - generic [ref=e482]: 欢喜串串老火锅
+          - generic [ref=e483]: "#38"
+        - generic [ref=e484]:
+          - generic [ref=e485]: 鸭血
+          - generic [ref=e486]: 猪脑
+          - generic [ref=e487]: 鸭肠
+        - generic [ref=e488]:
+          - generic [ref=e489]: 精确
+          - generic [ref=e490]: 景芳
+          - generic [ref=e491]: 第 2 页
+      - article [ref=e492] [cursor=pointer]:
+        - generic [ref=e493]:
+          - generic [ref=e494]: 一席地本地鸡窝
+          - generic [ref=e495]: "#39"
+        - generic [ref=e496]:
+          - generic [ref=e497]: 本地鸡窝
+          - generic [ref=e498]: 乌鸡鸡窝
+        - generic [ref=e499]:
+          - generic [ref=e500]: 精确
+          - generic [ref=e501]: 连锁
+          - generic [ref=e502]: 第 2 页
+      - article [ref=e503] [cursor=pointer]:
+        - generic [ref=e504]:
+          - generic [ref=e505]: 传统韩家
+          - generic [ref=e506]: "#40"
+        - generic [ref=e507]:
+          - generic [ref=e508]: 金枪鱼辣白菜汤
+          - generic [ref=e509]: 海带牛肉汤
+        - generic [ref=e510]:
+          - generic [ref=e511]: 已关
+          - generic [ref=e512]: 原工大垃圾街
+          - generic [ref=e513]: 第 2 页
+      - article [ref=e514] [cursor=pointer]:
+        - generic [ref=e515]:
+          - generic [ref=e516]: 沐茗小镇
+          - generic [ref=e517]: "#41"
+        - generic [ref=e518]:
+          - generic [ref=e519]: 干焖鸡
+          - generic [ref=e520]: 五味虾
+          - generic [ref=e521]: 铁板日本豆腐
+        - generic [ref=e522]:
+          - generic [ref=e523]: 精确
+          - generic [ref=e524]: 铂悦城
+          - generic [ref=e525]: 第 2 页
+      - article [ref=e526] [cursor=pointer]:
+        - generic [ref=e527]:
+          - generic [ref=e528]: 再回首老北京火锅
+          - generic [ref=e529]: "#42"
+        - generic [ref=e530]:
+          - generic [ref=e531]: 肥牛卷
+          - generic [ref=e532]: 鲜切羊肉
+          - generic [ref=e533]: 酸菜
+        - generic [ref=e534]:
+          - generic [ref=e535]: 精确
+          - generic [ref=e536]: 屏峰
+          - generic [ref=e537]: 第 2 页
+      - article [ref=e538] [cursor=pointer]:
+        - generic [ref=e539]:
+          - generic [ref=e540]: 妈妈私房菜
+          - generic [ref=e541]: "#43"
+        - generic [ref=e542]:
+          - generic [ref=e543]: 尖椒小鱼干
+          - generic [ref=e544]: 腊味小排
+        - generic [ref=e545]:
+          - generic [ref=e546]: 精确
+          - generic [ref=e547]: 石马
+          - generic [ref=e548]: 第 2 页
+      - article [ref=e549] [cursor=pointer]:
+        - generic [ref=e550]:
+          - generic [ref=e551]: 重庆正宗万州烤鱼
+          - generic [ref=e552]: "#44"
+        - generic [ref=e553]:
+          - generic [ref=e554]: 烤鱼
+          - generic [ref=e555]: 魔芋
+          - generic [ref=e556]: 螺蛳
+        - generic [ref=e557]:
+          - generic [ref=e558]: 商圈
+          - generic [ref=e559]: 萧山
+          - generic [ref=e560]: 第 2 页
+      - article [ref=e561] [cursor=pointer]:
+        - generic [ref=e562]:
+          - generic [ref=e563]: 虾王夜宴
+          - generic [ref=e564]: "#45"
+        - generic [ref=e565]:
+          - generic [ref=e566]: 小龙虾
+          - generic [ref=e567]: 锡纸娃娃菜
+          - generic [ref=e568]: 鸭舌
+        - generic [ref=e569]:
+          - generic [ref=e570]: 精确
+          - generic [ref=e571]: 九堡
+          - generic [ref=e572]: 第 2 页
+      - article [ref=e573] [cursor=pointer]:
+        - generic [ref=e574]:
+          - generic [ref=e575]: 战友龙虾
+          - generic [ref=e576]: "#46"
+        - generic [ref=e577]:
+          - generic [ref=e578]: 小龙虾
+          - generic [ref=e579]: 螺蛳
+        - generic [ref=e580]:
+          - generic [ref=e581]: 精确
+          - generic [ref=e582]: 三墩
+          - generic [ref=e583]: 第 2 页
+      - article [ref=e584] [cursor=pointer]:
+        - generic [ref=e585]:
+          - generic [ref=e586]: 老谢潮州菜
+          - generic [ref=e587]: "#47"
+        - generic [ref=e588]:
+          - generic [ref=e589]: 虾粥
+          - generic [ref=e590]: 空心菜
+          - generic [ref=e591]: 鹅肝
+          - generic [ref=e592]: 血蛤
+        - generic [ref=e593]:
+          - generic [ref=e594]: 精确
+          - generic [ref=e595]: 香积寺路
+          - generic [ref=e596]: 第 3 页
+      - article [ref=e597] [cursor=pointer]:
+        - generic [ref=e598]:
+          - generic [ref=e599]: 慧心小吃
+          - generic [ref=e600]: "#48"
+        - generic [ref=e601]:
+          - generic [ref=e602]: 笋尖烧卖
+          - generic [ref=e603]: 鲜肉小馄饨
+        - generic [ref=e604]:
+          - generic [ref=e605]: 精确
+          - generic [ref=e606]: 大关
+          - generic [ref=e607]: 第 3 页
+      - article [ref=e608] [cursor=pointer]:
+        - generic [ref=e609]:
+          - generic [ref=e610]: 阿英川菜馆
+          - generic [ref=e611]: "#49"
+        - generic [ref=e612]:
+          - generic [ref=e613]: 辣子鸡
+          - generic [ref=e614]: 水煮鱼
+          - generic [ref=e615]: 毛血旺
+          - generic [ref=e616]: 冰粉
+        - generic [ref=e617]:
+          - generic [ref=e618]: 精确
+          - generic [ref=e619]: 上塘路
+          - generic [ref=e620]: 第 3 页
+      - article [ref=e621] [cursor=pointer]:
+        - generic [ref=e622]:
+          - generic [ref=e623]: 谢大牛馆
+          - generic [ref=e624]: "#50"
+        - generic [ref=e625]:
+          - generic [ref=e626]: 牛杂煲
+          - generic [ref=e627]: 飞机骨
+          - generic [ref=e628]: 牛鞭汤
+        - generic [ref=e629]:
+          - generic [ref=e630]: 精确
+          - generic [ref=e631]: 上塘路
+          - generic [ref=e632]: 第 3 页
+      - article [ref=e633] [cursor=pointer]:
+        - generic [ref=e634]:
+          - generic [ref=e635]: 新凯旋烧烤
+          - generic [ref=e636]: "#51"
+        - generic [ref=e637]:
+          - generic [ref=e638]: 羊肉串
+          - generic [ref=e639]: 烤鱼
+          - generic [ref=e640]: 小龙虾
+        - generic [ref=e641]:
+          - generic [ref=e642]: 商圈
+          - generic [ref=e643]: 上塘路
+          - generic [ref=e644]: 第 3 页
+      - article [ref=e645] [cursor=pointer]:
+        - generic [ref=e646]:
+          - generic [ref=e647]: 彩娥饭店
+          - generic [ref=e648]: "#52"
+        - generic [ref=e649]:
+          - generic [ref=e650]: 白切门腔
+          - generic [ref=e651]: 葱油花蛤
+          - generic [ref=e652]: 雪菜蘑菇
+        - generic [ref=e653]:
+          - generic [ref=e654]: 精确
+          - generic [ref=e655]: 屏峰
+          - generic [ref=e656]: 第 3 页
+      - article [ref=e657] [cursor=pointer]:
+        - generic [ref=e658]:
+          - generic [ref=e659]: 小四川
+          - generic [ref=e660]: "#53"
+        - generic [ref=e661]:
+          - generic [ref=e662]: 铁板豆腐
+          - generic [ref=e663]: 石锅虾
+          - generic [ref=e664]: 手撕包菜
+        - generic [ref=e665]:
+          - generic [ref=e666]: 精确
+          - generic [ref=e667]: 东和
+          - generic [ref=e668]: 第 3 页
+      - article [ref=e669] [cursor=pointer]:
+        - generic [ref=e670]:
+          - generic [ref=e671]: 渝八两鸡公煲
+          - generic [ref=e672]: "#54"
+        - generic [ref=e673]:
+          - generic [ref=e674]: 鸡公煲
+          - generic [ref=e675]: 锅巴土豆
+        - generic [ref=e676]:
+          - generic [ref=e677]: 精确
+          - generic [ref=e678]: 连锁
+          - generic [ref=e679]: 第 3 页
+      - article [ref=e680] [cursor=pointer]:
+        - generic [ref=e681]:
+          - generic [ref=e682]: 飞爷牛腩面
+          - generic [ref=e683]: "#55"
+        - generic [ref=e684]:
+          - generic [ref=e685]: 老酸菜牛腩面
+          - generic [ref=e686]: 特色炸酱面
+        - generic [ref=e687]:
+          - generic [ref=e688]: 商圈
+          - generic [ref=e689]: UN 公社
+          - generic [ref=e690]: 第 3 页
+      - article [ref=e691] [cursor=pointer]:
+        - generic [ref=e692]:
+          - generic [ref=e693]: 琳理小馆
+          - generic [ref=e694]: "#56"
+        - generic [ref=e695]:
+          - generic [ref=e696]: 冬阴功火锅
+          - generic [ref=e697]: 眼肉牛排
+          - generic [ref=e698]: 肉酱意面
+        - generic [ref=e699]:
+          - generic [ref=e700]: 精确
+          - generic [ref=e701]: UN 公社
+          - generic [ref=e702]: 第 3 页
+      - article [ref=e703] [cursor=pointer]:
+        - generic [ref=e704]:
+          - generic [ref=e705]: 贵州烙锅
+          - generic [ref=e706]: "#57"
+        - generic [ref=e707]:
+          - generic [ref=e708]: 牛肉
+          - generic [ref=e709]: 五花肉
+          - generic [ref=e710]: 虾
+        - generic [ref=e711]:
+          - generic [ref=e712]: 精确
+          - generic [ref=e713]: 铂悦城
+          - generic [ref=e714]: 第 3 页
+      - article [ref=e715] [cursor=pointer]:
+        - generic [ref=e716]:
+          - generic [ref=e717]: 阿杰家下饭菜
+          - generic [ref=e718]: "#58"
+        - generic [ref=e719]:
+          - generic [ref=e720]: 小炒鸡
+          - generic [ref=e721]: 土豆牛腩
+          - generic [ref=e722]: 尖椒豆腐
+        - generic [ref=e723]:
+          - generic [ref=e724]: 精确
+          - generic [ref=e725]: 铂悦城
+          - generic [ref=e726]: 第 3 页
+      - article [ref=e727] [cursor=pointer]:
+        - generic [ref=e728]:
+          - generic [ref=e729]: 金桦面馆
+          - generic [ref=e730]: "#59"
+        - generic [ref=e731]:
+          - generic [ref=e732]: 雪菜肉丝面
+          - generic [ref=e733]: 青椒肉丝面
+        - generic [ref=e734]:
+          - generic [ref=e735]: 精确
+          - generic [ref=e736]: 小和山新苑
+          - generic [ref=e737]: 第 3 页
+      - article [ref=e738] [cursor=pointer]:
+        - generic [ref=e739]:
+          - generic [ref=e740]: 海来一号
+          - generic [ref=e741]: "#60"
+        - generic [ref=e742]:
+          - generic [ref=e743]: 海鲜杂鱼
+          - generic [ref=e744]: 溪沟杂鱼
+          - generic [ref=e745]: 铁板鳝丝
+        - generic [ref=e746]:
+          - generic [ref=e747]: 精确
+          - generic [ref=e748]: 良渚
+          - generic [ref=e749]: 第 3 页
+      - article [ref=e750] [cursor=pointer]:
+        - generic [ref=e751]:
+          - generic [ref=e752]: 飘香川菜馆
+          - generic [ref=e753]: "#61"
+        - generic [ref=e754]:
+          - generic [ref=e755]: 毛血旺
+          - generic [ref=e756]: 水煮肉片
+          - generic [ref=e757]: 酸菜鱼
+        - generic [ref=e758]:
+          - generic [ref=e759]: 精确
+          - generic [ref=e760]: 良渚
+          - generic [ref=e761]: 第 3 页
+      - article [ref=e762] [cursor=pointer]:
+        - generic [ref=e763]:
+          - generic [ref=e764]: 岳阳烧烤
+          - generic [ref=e765]: "#62"
+        - generic [ref=e766]:
+          - generic [ref=e767]: 螺蛳
+          - generic [ref=e768]: 烤牛肋条
+          - generic [ref=e769]: 小龙虾
+        - generic [ref=e770]:
+          - generic [ref=e771]: 商圈
+          - generic [ref=e772]: 良渚
+          - generic [ref=e773]: 第 3 页
+      - article [ref=e774] [cursor=pointer]:
+        - generic [ref=e775]:
+          - generic [ref=e776]: 胖子面馆
+          - generic [ref=e777]: "#63"
+        - generic [ref=e778]:
+          - generic [ref=e779]: 三鲜面
+          - generic [ref=e780]: 肉丝面
+          - generic [ref=e781]: 豆腐面
+        - generic [ref=e782]:
+          - generic [ref=e783]: 精确
+          - generic [ref=e784]: 良渚
+          - generic [ref=e785]: 第 3 页
+      - article [ref=e786] [cursor=pointer]:
+        - generic [ref=e787]:
+          - generic [ref=e788]: 九米羊肉炉
+          - generic [ref=e789]: "#64"
+        - generic [ref=e790]:
+          - generic [ref=e791]: 羊肉炉
+          - generic [ref=e792]: 烤鸡皮
+          - generic [ref=e793]: 小黄鱼
+        - generic [ref=e794]:
+          - generic [ref=e795]: 精确
+          - generic [ref=e796]: 七贤山居
+          - generic [ref=e797]: 第 3 页
+      - article [ref=e798] [cursor=pointer]:
+        - generic [ref=e799]:
+          - generic [ref=e800]: 一朝鲜面馆
+          - generic [ref=e801]: "#65"
+        - generic [ref=e802]:
+          - generic [ref=e803]: 三线面蛋
+          - generic [ref=e804]: 肉丝拌川
+          - generic [ref=e805]: 肉圆面
+        - generic [ref=e806]:
+          - generic [ref=e807]: 精确
+          - generic [ref=e808]: 七贤山居
+          - generic [ref=e809]: 第 3 页
+      - article [ref=e810] [cursor=pointer]:
+        - generic [ref=e811]:
+          - generic [ref=e812]: 老陶面馆
+          - generic [ref=e813]: "#66"
+        - generic [ref=e814]:
+          - generic [ref=e815]: 猪肝面
+          - generic [ref=e816]: 爆鳝面
+          - generic [ref=e817]: 酥鱼
+        - generic [ref=e818]:
+          - generic [ref=e819]: 商圈
+          - generic [ref=e820]: 七贤山居
+          - generic [ref=e821]: 第 3 页
+      - article [ref=e822] [cursor=pointer]:
+        - generic [ref=e823]:
+          - generic [ref=e824]: 梁大妈妈菜
+          - generic [ref=e825]: "#67"
+        - generic [ref=e826]:
+          - generic [ref=e827]: 小龙虾
+          - generic [ref=e828]: 酸菜鱼
+          - generic [ref=e829]: 老姜炒鸡
+        - generic [ref=e830]:
+          - generic [ref=e831]: 精确
+          - generic [ref=e832]: 三墩新天地
+          - generic [ref=e833]: 第 3 页
+      - article [ref=e834] [cursor=pointer]:
+        - generic [ref=e835]:
+          - generic [ref=e836]: 永旺夜市
+          - generic [ref=e837]: "#68"
+        - generic [ref=e839]: 超多摊位，任君挑选
+        - generic [ref=e840]:
+          - generic [ref=e841]: 精确
+          - generic [ref=e842]: 永旺梦乐城
+          - generic [ref=e843]: 第 3 页
+      - article [ref=e844] [cursor=pointer]:
+        - generic [ref=e845]:
+          - generic [ref=e846]: 朱富贵
+          - generic [ref=e847]: "#69"
+        - generic [ref=e848]:
+          - generic [ref=e849]: 皮皮虾
+          - generic [ref=e850]: 九节虾
+          - generic [ref=e851]: 黑虎虾
+          - generic [ref=e852]: 螺
+        - generic [ref=e853]:
+          - generic [ref=e854]: 精确
+          - generic [ref=e855]: 中大银泰
+          - generic [ref=e856]: 第 3 页
+      - article [ref=e857] [cursor=pointer]:
+        - generic [ref=e858]:
+          - generic [ref=e859]: 绝美嘉馄饨
+          - generic [ref=e860]: "#70"
+        - generic [ref=e861]:
+          - generic [ref=e862]: 野菜鲜肉小馄饨
+          - generic [ref=e863]: 馄饨砂锅
+        - generic [ref=e864]:
+          - generic [ref=e865]: 商圈
+          - generic [ref=e866]: 大关
+          - generic [ref=e867]: 第 3 页
+      - article [ref=e868] [cursor=pointer]:
+        - generic [ref=e869]:
+          - generic [ref=e870]: 流芳面馆
+          - generic [ref=e871]: "#71"
+        - generic [ref=e872]:
+          - generic [ref=e873]: 猪肝拌川
+          - generic [ref=e874]: 仔排面
+          - generic [ref=e875]: 尖椒笋干肉丝面
+        - generic [ref=e876]:
+          - generic [ref=e877]: 精确
+          - generic [ref=e878]: 海外海
+          - generic [ref=e879]: 第 3 页
+      - article [ref=e880] [cursor=pointer]:
+        - generic [ref=e881]:
+          - generic [ref=e882]: 复兴面王
+          - generic [ref=e883]: "#72"
+        - generic [ref=e884]:
+          - generic [ref=e885]: 茄汁水猪肝拌川
+          - generic [ref=e886]: 爆鳝拌川
+        - generic [ref=e887]:
+          - generic [ref=e888]: 精确
+          - generic [ref=e889]: 河东路
+          - generic [ref=e890]: 第 3 页
+      - article [ref=e891] [cursor=pointer]:
+        - generic [ref=e892]:
+          - generic [ref=e893]: 芳达烧烤
+          - generic [ref=e894]: "#73"
+        - generic [ref=e895]:
+          - generic [ref=e896]: 锅包肉
+          - generic [ref=e897]: 烤冷面
+          - generic [ref=e898]: 雪绵豆沙
+        - generic [ref=e899]:
+          - generic [ref=e900]: 精确
+          - generic [ref=e901]: 康康谷
+          - generic [ref=e902]: 第 3 页
+      - article [ref=e903] [cursor=pointer]:
+        - generic [ref=e904]:
+          - generic [ref=e905]: 红盔甲
+          - generic [ref=e906]: "#74"
+        - generic [ref=e907]:
+          - generic [ref=e908]: 小龙虾
+          - generic [ref=e909]: 椒盐皮皮虾
+          - generic [ref=e910]: 烤牛蛙
+        - generic [ref=e911]:
+          - generic [ref=e912]: 商圈
+          - generic [ref=e913]: 新塘路
+          - generic [ref=e914]: 第 3 页
+      - article [ref=e915] [cursor=pointer]:
+        - generic [ref=e916]:
+          - generic [ref=e917]: 覃覃记粉馆
+          - generic [ref=e918]: "#75"
+        - generic [ref=e919]:
+          - generic [ref=e920]: 螺蛳粉
+          - generic [ref=e921]: 猪蹄
+          - generic [ref=e922]: 木薯羹
+          - generic [ref=e923]: 鸭脚
+        - generic [ref=e924]:
+          - generic [ref=e925]: 精确
+          - generic [ref=e926]: 高教园
+          - generic [ref=e927]: 第 3 页
+      - article [ref=e928] [cursor=pointer]:
+        - generic [ref=e929]:
+          - generic [ref=e930]: 光头麻辣烫
+          - generic [ref=e931]: "#76"
+        - generic [ref=e932]:
+          - generic [ref=e933]: 木耳
+          - generic [ref=e934]: 蕨菜
+          - generic [ref=e935]: 海蜇和各种素菜
+        - generic [ref=e936]:
+          - generic [ref=e937]: 精确
+          - generic [ref=e938]: 西联广场
+          - generic [ref=e939]: 第 3 页
+      - article [ref=e940] [cursor=pointer]:
+        - generic [ref=e941]:
+          - generic [ref=e942]: 郭淑芬自助老火锅
+          - generic [ref=e943]: "#77"
+        - generic [ref=e944]:
+          - generic [ref=e945]: 毛肚
+          - generic [ref=e946]: 黄喉
+          - generic [ref=e947]: 鸭肠
+          - generic [ref=e948]: 牛蛙
+        - generic [ref=e949]:
+          - generic [ref=e950]: 精确
+          - generic [ref=e951]: 西文街
+          - generic [ref=e952]: 第 3 页
+      - article [ref=e953] [cursor=pointer]:
+        - generic [ref=e954]:
+          - generic [ref=e955]: 乔街深夜食堂
+          - generic [ref=e956]: "#78"
+        - generic [ref=e957]:
+          - generic [ref=e958]: 高压锅生蚝
+          - generic [ref=e959]: 胡椒猪肚鸡
+        - generic [ref=e960]:
+          - generic [ref=e961]: 精确
+          - generic [ref=e962]: 新天地
+          - generic [ref=e963]: 第 3 页
+      - article [ref=e964] [cursor=pointer]:
+        - generic [ref=e965]:
+          - generic [ref=e966]: 老季蚝宅
+          - generic [ref=e967]: "#79"
+        - generic [ref=e968]:
+          - generic [ref=e969]: 高压锅生蚝
+          - generic [ref=e970]: 鸡爪
+          - generic [ref=e971]: 酥辣小黄鱼
+        - generic [ref=e972]:
+          - generic [ref=e973]: 精确
+          - generic [ref=e974]: 海创园
+          - generic [ref=e975]: 第 3 页
+      - article [ref=e976] [cursor=pointer]:
+        - generic [ref=e977]:
+          - generic [ref=e978]: 留下来
+          - generic [ref=e979]: "#80"
+        - generic [ref=e981]: 筒骨砂锅
+        - generic [ref=e982]:
+          - generic [ref=e983]: 精确
+          - generic [ref=e984]: 乐堤港
+          - generic [ref=e985]: 第 4 页
+      - article [ref=e986] [cursor=pointer]:
+        - generic [ref=e987]:
+          - generic [ref=e988]: 衢州农家菜
+          - generic [ref=e989]: "#81"
+        - generic [ref=e990]:
+          - generic [ref=e991]: 铁板鲫鱼
+          - generic [ref=e992]: 生炒鸡
+          - generic [ref=e993]: 螺蛳
+        - generic [ref=e994]:
+          - generic [ref=e995]: 商圈
+          - generic [ref=e996]: 西和
+          - generic [ref=e997]: 第 4 页
+      - article [ref=e998] [cursor=pointer]:
+        - generic [ref=e999]:
+          - generic [ref=e1000]: 先启半步颠
+          - generic [ref=e1001]: "#82"
+        - generic [ref=e1002]:
+          - generic [ref=e1003]: 火爆双脆
+          - generic [ref=e1004]: 麻辣牛骨髓
+          - generic [ref=e1005]: 鲜椒兔
+        - generic [ref=e1006]:
+          - generic [ref=e1007]: 精确
+          - generic [ref=e1008]: 永旺梦乐城
+          - generic [ref=e1009]: 第 4 页
+      - article [ref=e1010] [cursor=pointer]:
+        - generic [ref=e1011]:
+          - generic [ref=e1012]: 荆九爷爆炒桥头三嫩
+          - generic [ref=e1013]: "#83"
+        - generic [ref=e1014]:
+          - generic [ref=e1015]: 九秒腰花
+          - generic [ref=e1016]: 雪花吊龙
+          - generic [ref=e1017]: 冰渣豆花
+        - generic [ref=e1018]:
+          - generic [ref=e1019]: 精确
+          - generic [ref=e1020]: 新天地
+          - generic [ref=e1021]: 第 4 页
+      - article [ref=e1022] [cursor=pointer]:
+        - generic [ref=e1023]:
+          - generic [ref=e1024]: 313 羊庄
+          - generic [ref=e1025]: "#84"
+        - generic [ref=e1026]:
+          - generic [ref=e1027]: 羊腿肉
+          - generic [ref=e1028]: 羊蝎子
+          - generic [ref=e1029]: 羊排
+        - generic [ref=e1030]:
+          - generic [ref=e1031]: 精确
+          - generic [ref=e1032]: 西子丁兰
+          - generic [ref=e1033]: 第 4 页
+      - article [ref=e1034] [cursor=pointer]:
+        - generic [ref=e1035]:
+          - generic [ref=e1036]: 夏星酒馆
+          - generic [ref=e1037]: "#85"
+        - generic [ref=e1038]:
+          - generic [ref=e1039]: 芝士排骨
+          - generic [ref=e1040]: 麻辣锅包肉
+        - generic [ref=e1041]:
+          - generic [ref=e1042]: 商圈
+          - generic [ref=e1043]: 剑桥公社
+          - generic [ref=e1044]: 第 4 页
+      - article [ref=e1045] [cursor=pointer]:
+        - generic [ref=e1046]:
+          - generic [ref=e1047]: 川与麻老火锅
+          - generic [ref=e1048]: "#86"
+        - generic [ref=e1049]:
+          - generic [ref=e1050]: 鸭血
+          - generic [ref=e1051]: 吊龙
+          - generic [ref=e1052]: 嫩牛肉
+        - generic [ref=e1053]:
+          - generic [ref=e1054]: 精确
+          - generic [ref=e1055]: 剑桥公社
+          - generic [ref=e1056]: 第 4 页
+      - article [ref=e1057] [cursor=pointer]:
+        - generic [ref=e1058]:
+          - generic [ref=e1059]: 药膳鸡煲
+          - generic [ref=e1060]: "#87"
+        - generic [ref=e1061]:
+          - generic [ref=e1062]: 药膳鸡
+          - generic [ref=e1063]: 鲜切猪肚
+        - generic [ref=e1064]:
+          - generic [ref=e1065]: 精确
+          - generic [ref=e1066]: 剑桥公社
+          - generic [ref=e1067]: 第 4 页
+      - article [ref=e1068] [cursor=pointer]:
+        - generic [ref=e1069]:
+          - generic [ref=e1070]: 新疆炒米粉
+          - generic [ref=e1071]: "#88"
+        - generic [ref=e1072]:
+          - generic [ref=e1073]: 鸡肉炒米粉
+          - generic [ref=e1074]: 鱼排双拼
+        - generic [ref=e1075]:
+          - generic [ref=e1076]: 精确
+          - generic [ref=e1077]: 剑桥公社
+          - generic [ref=e1078]: 第 4 页
+      - article [ref=e1079] [cursor=pointer]:
+        - generic [ref=e1080]:
+          - generic [ref=e1081]: 牛大馆黄牛肉火锅
+          - generic [ref=e1082]: "#89"
+        - generic [ref=e1083]:
+          - generic [ref=e1084]: 生牛肉
+          - generic [ref=e1085]: 牛杂拼
+        - generic [ref=e1086]:
+          - generic [ref=e1087]: 商圈
+          - generic [ref=e1088]: 香积寺路
+          - generic [ref=e1089]: 第 4 页
+      - article [ref=e1090] [cursor=pointer]:
+        - generic [ref=e1091]:
+          - generic [ref=e1092]: 老秦凉都黄牛肉馆
+          - generic [ref=e1093]: "#90"
+        - generic [ref=e1094]:
+          - generic [ref=e1095]: 生牛肉
+          - generic [ref=e1096]: 牛百叶
+          - generic [ref=e1097]: 空心菜
+        - generic [ref=e1098]:
+          - generic [ref=e1099]: 精确
+          - generic [ref=e1100]: 萧山
+          - generic [ref=e1101]: 第 4 页
+      - article [ref=e1102] [cursor=pointer]:
+        - generic [ref=e1103]:
+          - generic [ref=e1104]: 鹊拾湘
+          - generic [ref=e1105]: "#91"
+        - generic [ref=e1106]:
+          - generic [ref=e1107]: 砂锅扁豆丝
+          - generic [ref=e1108]: 现炒黄牛肉
+        - generic [ref=e1109]:
+          - generic [ref=e1110]: 精确
+          - generic [ref=e1111]: 新天地
+          - generic [ref=e1112]: 第 4 页
+      - article [ref=e1113] [cursor=pointer]:
+        - generic [ref=e1114]:
+          - generic [ref=e1115]: 晓锅鸡
+          - generic [ref=e1116]: "#92"
+        - generic [ref=e1117]:
+          - generic [ref=e1118]: 小公鸡
+          - generic [ref=e1119]: 贴饼
+        - generic [ref=e1120]:
+          - generic [ref=e1121]: 精确
+          - generic [ref=e1122]: 善贤人家
+          - generic [ref=e1123]: 第 4 页
+      - article [ref=e1124] [cursor=pointer]:
+        - generic [ref=e1125]:
+          - generic [ref=e1126]: 光头龙虾
+          - generic [ref=e1127]: "#93"
+        - generic [ref=e1128]:
+          - generic [ref=e1129]: 鱼籽鱼泡
+          - generic [ref=e1130]: 小龙虾
+        - generic [ref=e1131]:
+          - generic [ref=e1132]: 精确
+          - generic [ref=e1133]: 信义坊
+          - generic [ref=e1134]: 第 4 页
+      - article [ref=e1135] [cursor=pointer]:
+        - generic [ref=e1136]:
+          - generic [ref=e1137]: 木屋烧烤
+          - generic [ref=e1138]: "#94"
+        - generic [ref=e1139]:
+          - generic [ref=e1140]: 烤生蚝
+          - generic [ref=e1141]: 羊肉串
+          - generic [ref=e1142]: 烤白菜
+        - generic [ref=e1143]:
+          - generic [ref=e1144]: 精确
+          - generic [ref=e1145]: 胜利河美食街
+          - generic [ref=e1146]: 第 4 页
+      - article [ref=e1147] [cursor=pointer]:
+        - generic [ref=e1148]:
+          - generic [ref=e1149]: 老头儿油爆虾
+          - generic [ref=e1150]: "#95"
+        - generic [ref=e1151]:
+          - generic [ref=e1152]: 油爆虾
+          - generic [ref=e1153]: 干炸带鱼炒腰花
+        - generic [ref=e1154]:
+          - generic [ref=e1155]: 精确
+          - generic [ref=e1156]: 胜利河美食街
+          - generic [ref=e1157]: 第 4 页
+      - article [ref=e1158] [cursor=pointer]:
+        - generic [ref=e1159]:
+          - generic [ref=e1160]: 涮味浓老北京火锅
+          - generic [ref=e1161]: "#96"
+        - generic [ref=e1162]:
+          - generic [ref=e1163]: 羊蝎子
+          - generic [ref=e1164]: 脆毛肚
+          - generic [ref=e1165]: 嫩牛肉
+        - generic [ref=e1166]:
+          - generic [ref=e1167]: 商圈
+          - generic [ref=e1168]: 胜利河美食街
+          - generic [ref=e1169]: 第 4 页
+      - article [ref=e1170] [cursor=pointer]:
+        - generic [ref=e1171]:
+          - generic [ref=e1172]: 小厨师沈家门
+          - generic [ref=e1173]: "#97"
+        - generic [ref=e1174]:
+          - generic [ref=e1175]: 梭子蟹
+          - generic [ref=e1176]: 鲳鱼
+        - generic [ref=e1177]:
+          - generic [ref=e1178]: 精确
+          - generic [ref=e1179]: 胜利河美食街
+          - generic [ref=e1180]: 第 4 页
+      - article [ref=e1181] [cursor=pointer]:
+        - generic [ref=e1182]:
+          - generic [ref=e1183]: 吃饭皇帝大
+          - generic [ref=e1184]: "#98"
+        - generic [ref=e1185]:
+          - generic [ref=e1186]: 猫儿山的小黄牛
+          - generic [ref=e1187]: 稻草鱼
+        - generic [ref=e1188]:
+          - generic [ref=e1189]: 精确
+          - generic [ref=e1190]: 西溪印象城
+          - generic [ref=e1191]: 第 4 页
+      - article [ref=e1192] [cursor=pointer]:
+        - generic [ref=e1193]:
+          - generic [ref=e1194]: 很久以前羊肉串
+          - generic [ref=e1195]: "#99"
+        - generic [ref=e1196]:
+          - generic [ref=e1197]: 羊肉串
+          - generic [ref=e1198]: 去壳虾
+          - generic [ref=e1199]: 烤酸菜
+        - generic [ref=e1200]:
+          - generic [ref=e1201]: 精确
+          - generic [ref=e1202]: 西溪印象城
+          - generic [ref=e1203]: 第 4 页
+  - region "地图" [ref=e1204]:
+    - generic [ref=e1205]:
+      - generic:
+        - generic:
+          - img
+      - generic [ref=e1305]:
+        - link "Leaflet" [ref=e1306] [cursor=pointer]:
+          - /url: https://leafletjs.com
+          - img [ref=e1307]
+          - text: Leaflet
+        - text: "| © OpenStreetMap"
+    - generic:
+      - generic:
+        - generic: 精确
+        - generic: 商圈
+      - button "回到全图" [ref=e1311] [cursor=pointer]:
+        - img [ref=e1312]

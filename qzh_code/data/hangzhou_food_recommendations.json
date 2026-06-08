@@ -1,0 +1,2149 @@
+{
+  "metadata": {
+    "title": "中国美术学院求学生涯 99 家美食推荐",
+    "city": "杭州",
+    "province": "浙江",
+    "country": "中国",
+    "extracted_at": "2026-06-07",
+    "source": "用户提供的 4 张图片",
+    "geo_status": "未找到可用的高德地图 MCP 或 skill；当前仅保留原图中的地址/商圈提示，坐标和 POI 信息待补全。",
+    "source_images": [
+      "D:/Software/WeChat/xwechat_files/wxid_ek34z14icojx22_81c9/temp/RWTemp/2026-06/d3e69eefbab24a92020b95883a162146/6cc48dc48db839c58638042ff975e06c.jpg",
+      "D:/Software/WeChat/xwechat_files/wxid_ek34z14icojx22_81c9/temp/RWTemp/2026-06/d3e69eefbab24a92020b95883a162146/d5821ec42e5894a0fc8103814fae0e77.jpg",
+      "D:/Software/WeChat/xwechat_files/wxid_ek34z14icojx22_81c9/temp/RWTemp/2026-06/d3e69eefbab24a92020b95883a162146/64be1c9e3fc28c6361cf8e9879eb8d07.jpg",
+      "D:/Software/WeChat/xwechat_files/wxid_ek34z14icojx22_81c9/temp/RWTemp/2026-06/d3e69eefbab24a92020b95883a162146/be9d490a43306f7bd61779e2c2ead4bf.jpg"
+    ]
+  },
+  "shops": [
+    {
+      "id": 1,
+      "name": "肯德基",
+      "raw_name": "肯德基",
+      "recommended_dishes": [],
+      "address_hint": "连锁",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "原表推荐菜为横线。"
+    },
+    {
+      "id": 2,
+      "name": "麦当劳",
+      "raw_name": "麦当劳",
+      "recommended_dishes": [],
+      "address_hint": "连锁",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "原表推荐菜为横线。"
+    },
+    {
+      "id": 3,
+      "name": "必胜客",
+      "raw_name": "必胜客",
+      "recommended_dishes": [],
+      "address_hint": "连锁",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "原表推荐菜为横线。"
+    },
+    {
+      "id": 4,
+      "name": "汉堡王",
+      "raw_name": "汉堡王",
+      "recommended_dishes": [],
+      "address_hint": "连锁",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "原表推荐菜为横线。"
+    },
+    {
+      "id": 5,
+      "name": "六盘水黄牛馆",
+      "raw_name": "六盘水黄牛馆",
+      "recommended_dishes": [
+        "生牛肉",
+        "胸口油",
+        "牛骨髓"
+      ],
+      "address_hint": "奥莱金街",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 6,
+      "name": "辣东家",
+      "raw_name": "辣东家",
+      "recommended_dishes": [
+        "油泼鸡",
+        "小炒鸡杂",
+        "雪菜芋艿"
+      ],
+      "address_hint": "象山国际",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 7,
+      "name": "小辣椒",
+      "raw_name": "小辣椒",
+      "recommended_dishes": [
+        "小炒肉",
+        "生炒鸡",
+        "香辣甲鱼"
+      ],
+      "address_hint": "象山国际",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 8,
+      "name": "昊家露",
+      "raw_name": "昊家露",
+      "recommended_dishes": [
+        "铁板五花肉",
+        "部队火锅",
+        "火辣鸡爪"
+      ],
+      "address_hint": "首尔印象",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "店名按图片辨认为“昊家露”，建议后续地图检索时复核。"
+    },
+    {
+      "id": 9,
+      "name": "本分冒菜",
+      "raw_name": "本分冒菜",
+      "recommended_dishes": [
+        "牛肉",
+        "毛肚",
+        "脑花",
+        "鸭肠",
+        "黄喉"
+      ],
+      "address_hint": "金街美地",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 10,
+      "name": "睿雪面馆",
+      "raw_name": "睿雪面馆",
+      "recommended_dishes": [
+        "猪肝拌川",
+        "酸辣面",
+        "腰花拌川"
+      ],
+      "address_hint": "象山路西街",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 11,
+      "name": "来翠面馆",
+      "raw_name": "来翠面馆",
+      "recommended_dishes": [
+        "虾腰拌川",
+        "双腰拌川",
+        "猪肝面"
+      ],
+      "address_hint": "集贸路",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 12,
+      "name": "彩虹大排档",
+      "raw_name": "彩虹大排档",
+      "recommended_dishes": [
+        "椒盐皮皮虾",
+        "醋爪",
+        "小龙虾"
+      ],
+      "address_hint": "袁浦路",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "第二个菜名按图片辨认为“醋爪”。"
+    },
+    {
+      "id": 13,
+      "name": "老桐庐 1977",
+      "raw_name": "老桐庐 1977",
+      "recommended_dishes": [
+        "生炒鸡",
+        "鱼头煲",
+        "卤鸭"
+      ],
+      "address_hint": "金街美地",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 14,
+      "name": "那拉提新疆菜",
+      "raw_name": "那拉提新疆菜",
+      "recommended_dishes": [
+        "大盘鸡",
+        "烤羊腿",
+        "羊肉串"
+      ],
+      "address_hint": "星光荟",
+      "source_page": 1,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 15,
+      "name": "贵州地摊大排档",
+      "raw_name": "贵州地摊大排档",
+      "recommended_dishes": [
+        "酸虾牛肉",
+        "酸汤牛肉",
+        "炒魔芋"
+      ],
+      "address_hint": "首尔印象",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 16,
+      "name": "波哥私厨",
+      "raw_name": "波哥私厨",
+      "recommended_dishes": [
+        "香辣蟹",
+        "水煮吊龙",
+        "小龙虾"
+      ],
+      "address_hint": "之江商务中心",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 17,
+      "name": "停车场新疆烧烤",
+      "raw_name": "停车场新疆烧烤",
+      "recommended_dishes": [
+        "羊肉串",
+        "秋刀鱼",
+        "羊骨汤"
+      ],
+      "address_hint": "南街停车场",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 18,
+      "name": "重庆鸡公煲",
+      "raw_name": "重庆鸡公煲",
+      "recommended_dishes": [
+        "重庆鸡公煲"
+      ],
+      "address_hint": "金街美地",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 19,
+      "name": "大老太江西小炒",
+      "raw_name": "大老太江西小炒",
+      "recommended_dishes": [
+        "小炒肉",
+        "黄牛肉",
+        "黄豆鸡脚"
+      ],
+      "address_hint": "金街美地",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 20,
+      "name": "瑶姐干蒸菜",
+      "raw_name": "瑶姐干蒸菜",
+      "recommended_dishes": [
+        "吊龙牛肉",
+        "容边排骨"
+      ],
+      "address_hint": "象山国际",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 21,
+      "name": "墨绿",
+      "raw_name": "墨绿",
+      "recommended_dishes": [
+        "泉水鱼",
+        "石锅牛蛙",
+        "铁锅鸡"
+      ],
+      "address_hint": "星光荟",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 22,
+      "name": "印象坊",
+      "raw_name": "印象坊",
+      "recommended_dishes": [
+        "扁扁鸡",
+        "酸菜黑鱼"
+      ],
+      "address_hint": "金街美地",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 23,
+      "name": "金华砂锅",
+      "raw_name": "金华砂锅",
+      "recommended_dishes": [
+        "筒骨砂锅"
+      ],
+      "address_hint": "金街美地",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 24,
+      "name": "大峰饭店",
+      "raw_name": "大峰饭店",
+      "recommended_dishes": [
+        "鱼籽鱼泡",
+        "杂鱼锅仔"
+      ],
+      "address_hint": "象山站 D 口",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 25,
+      "name": "味世芳烧饼",
+      "raw_name": "味世芳烧饼",
+      "recommended_dishes": [
+        "干菜饼",
+        "牛肉烧饼"
+      ],
+      "address_hint": "星光荟",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 26,
+      "name": "衢小膳",
+      "raw_name": "衢小膳",
+      "recommended_dishes": [
+        "泡椒牛蛙",
+        "杂鱼锅",
+        "小炒黄牛肉"
+      ],
+      "address_hint": "象山国际",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 27,
+      "name": "大叔与萝莉",
+      "raw_name": "大叔与萝莉",
+      "recommended_dishes": [
+        "汉堡",
+        "牛肉蛋包饭",
+        "沙拉"
+      ],
+      "address_hint": "象山国际",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 28,
+      "name": "玖十八烤鱼",
+      "raw_name": "玖十八烤鱼",
+      "recommended_dishes": [
+        "海鲈鱼烤鱼",
+        "锡纸日本豆腐"
+      ],
+      "address_hint": "奥莱金街",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 29,
+      "name": "张大厨柠檬酸菜鱼",
+      "raw_name": "张大厨柠檬酸菜鱼",
+      "recommended_dishes": [
+        "老坛酸菜鱼",
+        "干烧肥肠"
+      ],
+      "address_hint": "龙坞",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 30,
+      "name": "山胡椒",
+      "raw_name": "山胡椒",
+      "recommended_dishes": [
+        "带汤牛肉",
+        "茄子",
+        "擂辣椒皮蛋"
+      ],
+      "address_hint": "BAC 艺术社区",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 31,
+      "name": "宽窄巷子",
+      "raw_name": "宽窄巷子",
+      "recommended_dishes": [
+        "鸭血",
+        "猪脑",
+        "毛肚",
+        "冰粉"
+      ],
+      "address_hint": "金街美地",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 32,
+      "name": "杨国福麻辣烫",
+      "raw_name": "杨国福麻辣烫",
+      "recommended_dishes": [
+        "所有素菜"
+      ],
+      "address_hint": "金街美地",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 33,
+      "name": "四季大树底",
+      "raw_name": "四季大树底",
+      "recommended_dishes": [
+        "山泉水螺蛳",
+        "杂鱼锅",
+        "炒肚尖"
+      ],
+      "address_hint": "金华南路",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 34,
+      "name": "蜀风旋转小火锅",
+      "raw_name": "蜀风旋转小火锅",
+      "recommended_dishes": [
+        "所有素菜"
+      ],
+      "address_hint": "大关大润发",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 35,
+      "name": "台州海鲜面",
+      "raw_name": "台州海鲜面",
+      "recommended_dishes": [
+        "海鲜粉丝",
+        "黄鱼面",
+        "带鱼面"
+      ],
+      "address_hint": "野风现代之窗",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 36,
+      "name": "凯哥一头牛",
+      "raw_name": "凯哥一头牛",
+      "recommended_dishes": [
+        "新鲜吊龙",
+        "鲜切牛肉"
+      ],
+      "address_hint": "拱墅万达金街",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 37,
+      "name": "快点小龙虾大闸蟹",
+      "raw_name": "快点小龙虾大闸蟹",
+      "recommended_dishes": [
+        "小龙虾",
+        "椒盐皮皮虾",
+        "螺蛳"
+      ],
+      "address_hint": "信义坊",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 38,
+      "name": "欢喜串串老火锅",
+      "raw_name": "欢喜串串老火锅",
+      "recommended_dishes": [
+        "鸭血",
+        "猪脑",
+        "鸭肠"
+      ],
+      "address_hint": "景芳",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 39,
+      "name": "一席地本地鸡窝",
+      "raw_name": "一席地本地鸡窝",
+      "recommended_dishes": [
+        "本地鸡窝",
+        "乌鸡鸡窝"
+      ],
+      "address_hint": "连锁",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "店名和菜名按图片辨认为“鸡窝”。"
+    },
+    {
+      "id": 40,
+      "name": "传统韩家",
+      "raw_name": "传统韩家（已关）",
+      "recommended_dishes": [
+        "金枪鱼辣白菜汤",
+        "海带牛肉汤"
+      ],
+      "address_hint": "原工大垃圾街",
+      "source_page": 2,
+      "status": "closed_in_source",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "原表标注“已关”。"
+    },
+    {
+      "id": 41,
+      "name": "沐茗小镇",
+      "raw_name": "沐茗小镇",
+      "recommended_dishes": [
+        "干焖鸡",
+        "五味虾",
+        "铁板日本豆腐"
+      ],
+      "address_hint": "铂悦城",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 42,
+      "name": "再回首老北京火锅",
+      "raw_name": "再回首老北京火锅",
+      "recommended_dishes": [
+        "肥牛卷",
+        "鲜切羊肉",
+        "酸菜"
+      ],
+      "address_hint": "屏峰",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 43,
+      "name": "妈妈私房菜",
+      "raw_name": "妈妈私房菜",
+      "recommended_dishes": [
+        "尖椒小鱼干",
+        "腊味小排"
+      ],
+      "address_hint": "石马",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 44,
+      "name": "重庆正宗万州烤鱼",
+      "raw_name": "重庆正宗万州烤鱼",
+      "recommended_dishes": [
+        "烤鱼",
+        "魔芋",
+        "螺蛳"
+      ],
+      "address_hint": "萧山",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 45,
+      "name": "虾王夜宴",
+      "raw_name": "虾王夜宴",
+      "recommended_dishes": [
+        "小龙虾",
+        "锡纸娃娃菜",
+        "鸭舌"
+      ],
+      "address_hint": "九堡",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 46,
+      "name": "战友龙虾",
+      "raw_name": "战友龙虾",
+      "recommended_dishes": [
+        "小龙虾",
+        "螺蛳"
+      ],
+      "address_hint": "三墩",
+      "source_page": 2,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 47,
+      "name": "老谢潮州菜",
+      "raw_name": "老谢潮州菜",
+      "recommended_dishes": [
+        "虾粥",
+        "空心菜",
+        "鹅肝",
+        "血蛤"
+      ],
+      "address_hint": "香积寺路",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 48,
+      "name": "慧心小吃",
+      "raw_name": "慧心小吃",
+      "recommended_dishes": [
+        "笋尖烧卖",
+        "鲜肉小馄饨"
+      ],
+      "address_hint": "大关",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 49,
+      "name": "阿英川菜馆",
+      "raw_name": "阿英川菜馆",
+      "recommended_dishes": [
+        "辣子鸡",
+        "水煮鱼",
+        "毛血旺",
+        "冰粉"
+      ],
+      "address_hint": "上塘路",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 50,
+      "name": "谢大牛馆",
+      "raw_name": "谢大牛馆",
+      "recommended_dishes": [
+        "牛杂煲",
+        "飞机骨",
+        "牛鞭汤"
+      ],
+      "address_hint": "上塘路",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 51,
+      "name": "新凯旋烧烤",
+      "raw_name": "新凯旋烧烤",
+      "recommended_dishes": [
+        "羊肉串",
+        "烤鱼",
+        "小龙虾"
+      ],
+      "address_hint": "上塘路",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 52,
+      "name": "彩娥饭店",
+      "raw_name": "彩娥饭店",
+      "recommended_dishes": [
+        "白切门腔",
+        "葱油花蛤",
+        "雪菜蘑菇"
+      ],
+      "address_hint": "屏峰",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 53,
+      "name": "小四川",
+      "raw_name": "小四川",
+      "recommended_dishes": [
+        "铁板豆腐",
+        "石锅虾",
+        "手撕包菜"
+      ],
+      "address_hint": "东和",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 54,
+      "name": "渝八两鸡公煲",
+      "raw_name": "渝八两鸡公煲",
+      "recommended_dishes": [
+        "鸡公煲",
+        "锅巴土豆"
+      ],
+      "address_hint": "连锁",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 55,
+      "name": "飞爷牛腩面",
+      "raw_name": "飞爷牛腩面",
+      "recommended_dishes": [
+        "老酸菜牛腩面",
+        "特色炸酱面"
+      ],
+      "address_hint": "UN 公社",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 56,
+      "name": "琳理小馆",
+      "raw_name": "琳理小馆",
+      "recommended_dishes": [
+        "冬阴功火锅",
+        "眼肉牛排",
+        "肉酱意面"
+      ],
+      "address_hint": "UN 公社",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 57,
+      "name": "贵州烙锅",
+      "raw_name": "贵州烙锅",
+      "recommended_dishes": [
+        "牛肉",
+        "五花肉",
+        "虾"
+      ],
+      "address_hint": "铂悦城",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 58,
+      "name": "阿杰家下饭菜",
+      "raw_name": "阿杰家下饭菜",
+      "recommended_dishes": [
+        "小炒鸡",
+        "土豆牛腩",
+        "尖椒豆腐"
+      ],
+      "address_hint": "铂悦城",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 59,
+      "name": "金桦面馆",
+      "raw_name": "金桦面馆",
+      "recommended_dishes": [
+        "雪菜肉丝面",
+        "青椒肉丝面"
+      ],
+      "address_hint": "小和山新苑",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 60,
+      "name": "海来一号",
+      "raw_name": "海来一号",
+      "recommended_dishes": [
+        "海鲜杂鱼",
+        "溪沟杂鱼",
+        "铁板鳝丝"
+      ],
+      "address_hint": "良渚",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 61,
+      "name": "飘香川菜馆",
+      "raw_name": "飘香川菜馆",
+      "recommended_dishes": [
+        "毛血旺",
+        "水煮肉片",
+        "酸菜鱼"
+      ],
+      "address_hint": "良渚",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 62,
+      "name": "岳阳烧烤",
+      "raw_name": "岳阳烧烤",
+      "recommended_dishes": [
+        "螺蛳",
+        "烤牛肋条",
+        "小龙虾"
+      ],
+      "address_hint": "良渚",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 63,
+      "name": "胖子面馆",
+      "raw_name": "胖子面馆",
+      "recommended_dishes": [
+        "三鲜面",
+        "肉丝面",
+        "豆腐面"
+      ],
+      "address_hint": "良渚",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 64,
+      "name": "九米羊肉炉",
+      "raw_name": "九米羊肉炉",
+      "recommended_dishes": [
+        "羊肉炉",
+        "烤鸡皮",
+        "小黄鱼"
+      ],
+      "address_hint": "七贤山居",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 65,
+      "name": "一朝鲜面馆",
+      "raw_name": "一朝鲜面馆",
+      "recommended_dishes": [
+        "三线面蛋",
+        "肉丝拌川",
+        "肉圆面"
+      ],
+      "address_hint": "七贤山居",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "第一项菜名按放大图照录为“三线面蛋”，建议后续复核。"
+    },
+    {
+      "id": 66,
+      "name": "老陶面馆",
+      "raw_name": "老陶面馆",
+      "recommended_dishes": [
+        "猪肝面",
+        "爆鳝面",
+        "酥鱼"
+      ],
+      "address_hint": "七贤山居",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 67,
+      "name": "梁大妈妈菜",
+      "raw_name": "梁大妈妈菜",
+      "recommended_dishes": [
+        "小龙虾",
+        "酸菜鱼",
+        "老姜炒鸡"
+      ],
+      "address_hint": "三墩新天地",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 68,
+      "name": "永旺夜市",
+      "raw_name": "永旺夜市",
+      "recommended_dishes": [
+        "超多摊位，任君挑选"
+      ],
+      "address_hint": "永旺梦乐城",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "原表为推荐描述，不是单个菜品。"
+    },
+    {
+      "id": 69,
+      "name": "朱富贵",
+      "raw_name": "朱富贵",
+      "recommended_dishes": [
+        "皮皮虾",
+        "九节虾",
+        "黑虎虾",
+        "螺"
+      ],
+      "address_hint": "中大银泰",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "最后一项按放大图仅显示为“螺”。"
+    },
+    {
+      "id": 70,
+      "name": "绝美嘉馄饨",
+      "raw_name": "绝美嘉馄饨",
+      "recommended_dishes": [
+        "野菜鲜肉小馄饨",
+        "馄饨砂锅"
+      ],
+      "address_hint": "大关",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 71,
+      "name": "流芳面馆",
+      "raw_name": "流芳面馆",
+      "recommended_dishes": [
+        "猪肝拌川",
+        "仔排面",
+        "尖椒笋干肉丝面"
+      ],
+      "address_hint": "海外海",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 72,
+      "name": "复兴面王",
+      "raw_name": "复兴面王",
+      "recommended_dishes": [
+        "茄汁水猪肝拌川",
+        "爆鳝拌川"
+      ],
+      "address_hint": "河东路",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "第一项按放大图照录为“茄汁水猪肝拌川”，建议后续复核。"
+    },
+    {
+      "id": 73,
+      "name": "芳达烧烤",
+      "raw_name": "芳达烧烤",
+      "recommended_dishes": [
+        "锅包肉",
+        "烤冷面",
+        "雪绵豆沙"
+      ],
+      "address_hint": "康康谷",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 74,
+      "name": "红盔甲",
+      "raw_name": "红盔甲",
+      "recommended_dishes": [
+        "小龙虾",
+        "椒盐皮皮虾",
+        "烤牛蛙"
+      ],
+      "address_hint": "新塘路",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 75,
+      "name": "覃覃记粉馆",
+      "raw_name": "覃覃记粉馆",
+      "recommended_dishes": [
+        "螺蛳粉",
+        "猪蹄",
+        "木薯羹",
+        "鸭脚"
+      ],
+      "address_hint": "高教园",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 76,
+      "name": "光头麻辣烫",
+      "raw_name": "光头麻辣烫",
+      "recommended_dishes": [
+        "木耳",
+        "蕨菜",
+        "海蜇和各种素菜"
+      ],
+      "address_hint": "西联广场",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 77,
+      "name": "郭淑芬自助老火锅",
+      "raw_name": "郭淑芬自助老火锅",
+      "recommended_dishes": [
+        "毛肚",
+        "黄喉",
+        "鸭肠",
+        "牛蛙"
+      ],
+      "address_hint": "西文街",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 78,
+      "name": "乔街深夜食堂",
+      "raw_name": "乔街深夜食堂",
+      "recommended_dishes": [
+        "高压锅生蚝",
+        "胡椒猪肚鸡"
+      ],
+      "address_hint": "新天地",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 79,
+      "name": "老季蚝宅",
+      "raw_name": "老季蚝宅",
+      "recommended_dishes": [
+        "高压锅生蚝",
+        "鸡爪",
+        "酥辣小黄鱼"
+      ],
+      "address_hint": "海创园",
+      "source_page": 3,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 80,
+      "name": "留下来",
+      "raw_name": "留下来",
+      "recommended_dishes": [
+        "筒骨砂锅"
+      ],
+      "address_hint": "乐堤港",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 81,
+      "name": "衢州农家菜",
+      "raw_name": "衢州农家菜",
+      "recommended_dishes": [
+        "铁板鲫鱼",
+        "生炒鸡",
+        "螺蛳"
+      ],
+      "address_hint": "西和",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 82,
+      "name": "先启半步颠",
+      "raw_name": "先启半步颠",
+      "recommended_dishes": [
+        "火爆双脆",
+        "麻辣牛骨髓",
+        "鲜椒兔"
+      ],
+      "address_hint": "永旺梦乐城",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 83,
+      "name": "荆九爷爆炒桥头三嫩",
+      "raw_name": "荆九爷爆炒桥头三嫩",
+      "recommended_dishes": [
+        "九秒腰花",
+        "雪花吊龙",
+        "冰渣豆花"
+      ],
+      "address_hint": "新天地",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 84,
+      "name": "313 羊庄",
+      "raw_name": "313 羊庄",
+      "recommended_dishes": [
+        "羊腿肉",
+        "羊蝎子",
+        "羊排"
+      ],
+      "address_hint": "西子丁兰",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 85,
+      "name": "夏星酒馆",
+      "raw_name": "夏星酒馆",
+      "recommended_dishes": [
+        "芝士排骨",
+        "麻辣锅包肉"
+      ],
+      "address_hint": "剑桥公社",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 86,
+      "name": "川与麻老火锅",
+      "raw_name": "川与麻老火锅",
+      "recommended_dishes": [
+        "鸭血",
+        "吊龙",
+        "嫩牛肉"
+      ],
+      "address_hint": "剑桥公社",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 87,
+      "name": "药膳鸡煲",
+      "raw_name": "药膳鸡煲",
+      "recommended_dishes": [
+        "药膳鸡",
+        "鲜切猪肚"
+      ],
+      "address_hint": "剑桥公社",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 88,
+      "name": "新疆炒米粉",
+      "raw_name": "新疆炒米粉",
+      "recommended_dishes": [
+        "鸡肉炒米粉",
+        "鱼排双拼"
+      ],
+      "address_hint": "剑桥公社",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 89,
+      "name": "牛大馆黄牛肉火锅",
+      "raw_name": "牛大馆黄牛肉火锅",
+      "recommended_dishes": [
+        "生牛肉",
+        "牛杂拼"
+      ],
+      "address_hint": "香积寺路",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 90,
+      "name": "老秦凉都黄牛肉馆",
+      "raw_name": "老秦凉都黄牛肉馆",
+      "recommended_dishes": [
+        "生牛肉",
+        "牛百叶",
+        "空心菜"
+      ],
+      "address_hint": "萧山",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 91,
+      "name": "鹊拾湘",
+      "raw_name": "鹊拾湘",
+      "recommended_dishes": [
+        "砂锅扁豆丝",
+        "现炒黄牛肉"
+      ],
+      "address_hint": "新天地",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 92,
+      "name": "晓锅鸡",
+      "raw_name": "晓锅鸡",
+      "recommended_dishes": [
+        "小公鸡",
+        "贴饼"
+      ],
+      "address_hint": "善贤人家",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 93,
+      "name": "光头龙虾",
+      "raw_name": "光头龙虾",
+      "recommended_dishes": [
+        "鱼籽鱼泡",
+        "小龙虾"
+      ],
+      "address_hint": "信义坊",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 94,
+      "name": "木屋烧烤",
+      "raw_name": "木屋烧烤",
+      "recommended_dishes": [
+        "烤生蚝",
+        "羊肉串",
+        "烤白菜"
+      ],
+      "address_hint": "胜利河美食街",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 95,
+      "name": "老头儿油爆虾",
+      "raw_name": "老头儿油爆虾",
+      "recommended_dishes": [
+        "油爆虾",
+        "干炸带鱼炒腰花"
+      ],
+      "address_hint": "胜利河美食街",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": "第二项照录为“干炸带鱼炒腰花”，图片中未见清晰分隔符。"
+    },
+    {
+      "id": 96,
+      "name": "涮味浓老北京火锅",
+      "raw_name": "涮味浓老北京火锅",
+      "recommended_dishes": [
+        "羊蝎子",
+        "脆毛肚",
+        "嫩牛肉"
+      ],
+      "address_hint": "胜利河美食街",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 97,
+      "name": "小厨师沈家门",
+      "raw_name": "小厨师沈家门",
+      "recommended_dishes": [
+        "梭子蟹",
+        "鲳鱼"
+      ],
+      "address_hint": "胜利河美食街",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 98,
+      "name": "吃饭皇帝大",
+      "raw_name": "吃饭皇帝大",
+      "recommended_dishes": [
+        "猫儿山的小黄牛",
+        "稻草鱼"
+      ],
+      "address_hint": "西溪印象城",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    },
+    {
+      "id": 99,
+      "name": "很久以前羊肉串",
+      "raw_name": "很久以前羊肉串",
+      "recommended_dishes": [
+        "羊肉串",
+        "去壳虾",
+        "烤酸菜"
+      ],
+      "address_hint": "西溪印象城",
+      "source_page": 4,
+      "status": "unknown",
+      "geocode": {
+        "status": "not_queried",
+        "provider": null,
+        "poi_name": null,
+        "formatted_address": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "notes": null
+    }
+  ]
+}
